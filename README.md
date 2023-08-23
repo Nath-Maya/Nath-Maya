@@ -1,6 +1,6 @@
 
 ## Hola 👋,  mi nombre es Nathalia Maya. 
-### Jr. Developer Frontend.
+###  Developer Frontend.
 
 Soy de Cali - Colombia, estudiante de desarrollo Front-End en proceso,
 Posterior a ello seguir estudiando demás lenguajes y metodologias necesarias para ser un prospecto llamativo en el mundo del desarrollo web y la programacion. 
@@ -8,7 +8,7 @@ Una persona dinamica, proactiva, organizada, con capacidad de analisis para dar 
 
 ```js
 const nathMaya = {
-  code: [HTML, CSS, Javascript],
+  code: [HTML, CSS, Javascript,React],
   softSkills: [GestionTiempo, Analisis, ComunicacionEfectiva, BusinessAgility]
   challenge: "I'm learning Full Stack web development at #Coderhouse and Frontend Specialization with #Alura, focused on JavaScript and React"
 }
