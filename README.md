@@ -21,7 +21,7 @@ Mi meta es seguir creciendo en el mundo del desarrollo web, contribuir con soluc
 
 💌 natha.maya.ramirez93@gmail.com
 
-💌 [[linkedin.com/in/nathalia-maya-ramirez](https://www.linkedin.com/in/nathalia-maya-814245119/)](https://www.linkedin.com/in/nathalia-maya-814245119/)
+💌 [[linkedin.com/in/nathalia-maya-ramirez](https://www.linkedin.com/in/nathalia-maya-814245119/)]
 
 ¡Hagamos cosas increíbles juntos! 🚀
 
